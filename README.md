@@ -2,9 +2,7 @@
 
 
 
-- 🌱 Currently studying in my final year of a Software Engineering degree.
-- 😄 Very interested in web development.
-- 👉 My skills include: .NET, CSS/HTML, JavaScript, C#, SQL, basic C++.
-- 👯 I’m working on a Udemy course for ASP.NET core.
-- 🤔 I’m looking to improve my skills for building web applications and to expand my knowledge.
+- Bachelor's Degree - Software Engineering
+- Interested in DevOps culture and Cloud technologies.
+- My skills include: AWS · SQL · MongoDB · Microsoft SQL Server · .NET Framework · Redis · Windows Services · RabbitMQ · Jenkins · Git · GitHub · Kibana · Internet Information Services (IIS) · JSON · XML · HTML/CSS
 
