@@ -1,6 +1,6 @@
 # Hi, I'm Kiril 👋
 
-**TechOps / DevOps Engineer** — I design, automate, and operate reliable cloud infrastructure.
+**DevOps Engineer** — I design, automate, and operate reliable cloud infrastructure.
 
 I architect and maintain scalable AWS environments, manage everything as code with Terraform, and build CI/CD pipelines that ship releases safely. I care about observability, uptime, and removing manual toil — if a system runs in production, I want to see it, measure it, and make it self-healing.
 
