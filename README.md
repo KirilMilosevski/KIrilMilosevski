@@ -1,4 +1,4 @@
-# Hi, I'm Kiril Milosevski 👋
+# Hi, I'm Kiril 👋
 
 **TechOps / DevOps Engineer** — I design, automate, and operate reliable cloud infrastructure.
 
