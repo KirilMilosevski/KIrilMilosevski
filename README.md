@@ -1,6 +1,6 @@
 # Hi, I'm Kiril
 
-**DevOps Engineer** — I design, automate, and operate reliable cloud infrastructure on **AWS** and **Azure**.
+**DevOps Engineer in Skopje** — I design, automate, and operate reliable cloud infrastructure on **AWS** and **Azure**.
 
 I build platforms with Terraform and **AWS CDK**, ship with CI/CD and GitOps, and care about observability, security gates, and removing manual toil.
 
@@ -27,9 +27,10 @@ I build platforms with Terraform and **AWS CDK**, ship with CI/CD and GitOps, an
 
 ## Side projects
 
-- **[Enterprise-k8s-platform](https://github.com/KirilMilosevski/Enterprise-k8s-platform)** — GitOps Kubernetes homelab: Terraform + Argo CD + Traefik + cert-manager + PLG + Cloudflare tunnel (showcase)
+- **[Enterprise-k8s-platform](https://github.com/KirilMilosevski/Enterprise-k8s-platform)** — GitOps Kubernetes platform: Terraform, Argo CD, Traefik, cert-manager, observability, Cloudflare tunnel
 - **[Homelab](https://github.com/KirilMilosevski/Homelab)** — Archived early lab (superseded by Enterprise-k8s-platform)
 
 ## Links
 
+- Portfolio: [kirilmilosevski.github.io/kiril-cv-landing](https://kirilmilosevski.github.io/kiril-cv-landing/)
 - LinkedIn: [kiril-milosevski](https://www.linkedin.com/in/kiril-milosevski-603b25241)
